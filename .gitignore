@@ -1,0 +1,6 @@
+#ignore files related to api keys
+.env
+.config2.py
+logs/
+plugins/
+__pycache__/
